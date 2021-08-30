@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajwal-R
-- 👀 I’m interested in datascience
+- 👀 I’m interested in contributing positively towards it sector
 - 🌱 I’m currently learning BE
 - 📫 How to reach me prajwalbhat30@gmail.com
 
