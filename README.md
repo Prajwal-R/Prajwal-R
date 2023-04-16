@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal-R
 - 👀 I’m interested in contributing positively towards IT sector
-- 🌱 I’m currently learning BE
+- 🌱 I’m an android app developer
 - 📫 How to reach me prajwalbhat30@gmail.com
 
 <!---
